@@ -7,7 +7,7 @@
 #include <linux/delay.h>
 #include <linux/unistd.h>
 
-MODULE_AUTHOR("Ko Moriyama");
+MODULE_AUTHOR("Ryuichi Ueda,Ko Moriyama");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
